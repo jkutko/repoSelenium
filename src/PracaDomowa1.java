@@ -13,9 +13,11 @@ public class PracaDomowa1 {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Podaj wiek ");
         int wiek = scanner.nextInt();
-        if (wiek<18) {
+        if (wiek<18 && wiek >= 0) {
             System.out.println("Sorry, ale Nie możesz kupić alko !");
-        }else {
+        } else if (wiek < 0) {
+            System.out.println("No sorry batory, nie udawaj !!");
+        } else {
             System.out.println("Najebiemy się ;)");
         }
 
