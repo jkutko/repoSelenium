@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb77c01d-e0d2-44bd-b21a-3ccbd7442cef" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/PracaDomowa1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +38,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.CustomScanner">
+  <component name="RunManager" selected="Application.PracaDomowa1">
     <configuration name="CustomScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CustomScanner" />
       <module name="repo" />
@@ -59,8 +60,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TypyObiektowe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TypyObiektowe" />
+    <configuration name="PracaDomowa1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracaDomowa1" />
       <module name="repo" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -75,11 +76,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PracaDomowa1" />
         <item itemvalue="Application.CustomScanner" />
         <item itemvalue="Application.InkrementacjaDekrementacja" />
         <item itemvalue="Application.OperatoryMatematyczne" />
         <item itemvalue="Application.Zmienne" />
-        <item itemvalue="Application.TypyObiektowe" />
       </list>
     </recent_temporary>
   </component>
@@ -120,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657632289079</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add to git ignore">
+      <created>1657632614441</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1657632614441</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -144,6 +152,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="tx" />
     <MESSAGE value="Revert &quot;tx&quot;&#10;add to git ignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;tx&quot;&#10;add to git ignore" />
+    <MESSAGE value="add to git ignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="add to git ignore" />
   </component>
 </project>
