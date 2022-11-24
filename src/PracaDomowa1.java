@@ -14,7 +14,7 @@ public class PracaDomowa1 {
         System.out.println("Podaj wiek ");
         int wiek = scanner.nextInt();
         if (wiek<18 && wiek >= 0) {
-            System.out.println("Sorry, ale Nie możesz kupić alko !");
+            System.out.println("Sorry, ale nie możesz kupić alko !");
         } else if (wiek < 0) {
             System.out.println("No sorry batory, nie udawaj !!");
         } else {
