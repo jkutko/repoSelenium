@@ -12,9 +12,8 @@ public class PracaDomowa1 {
 
         Scanner scanner = new Scanner(System.in);
         System.out.println("Podaj wiek ");
-        String skaner = scanner.next();
+        int wiek = scanner.nextInt();
 
-        int wiek = Integer.parseInt(skaner);
         if (wiek < 18 && wiek >= 0) {
             System.out.println("Sorry, ale nie możesz kupić alko !!");
         } else if (wiek < 0) {

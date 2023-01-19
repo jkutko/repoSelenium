@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb77c01d-e0d2-44bd-b21a-3ccbd7442cef" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/petlaFor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/PracaDomowa1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracaDomowa1.java" afterDir="false" />
     </list>
@@ -38,7 +39,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.Switch">
+  <component name="RunManager" selected="Application.petlaFor">
     <configuration name="CustomScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CustomScanner" />
       <module name="repo" />
@@ -48,13 +49,6 @@
     </configuration>
     <configuration name="InkrementacjaDekrementacja" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="InkrementacjaDekrementacja" />
-      <module name="repo" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OperatoryMatematyczne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OperatoryMatematyczne" />
       <module name="repo" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,13 +68,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="petlaFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="petlaFor" />
+      <module name="repo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Switch" />
+        <item itemvalue="Application.petlaFor" />
         <item itemvalue="Application.PracaDomowa1" />
+        <item itemvalue="Application.Switch" />
         <item itemvalue="Application.CustomScanner" />
         <item itemvalue="Application.InkrementacjaDekrementacja" />
-        <item itemvalue="Application.OperatoryMatematyczne" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +143,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657699744953</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="swith">
+      <created>1674137920771</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1674137920771</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -169,6 +177,7 @@
     <MESSAGE value="add to git ignore" />
     <MESSAGE value="praca domowa 1" />
     <MESSAGE value="praca domowa 2 sklep z alko" />
-    <option name="LAST_COMMIT_MESSAGE" value="praca domowa 2 sklep z alko" />
+    <MESSAGE value="swith" />
+    <option name="LAST_COMMIT_MESSAGE" value="swith" />
   </component>
 </project>
