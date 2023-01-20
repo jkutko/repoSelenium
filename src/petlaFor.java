@@ -11,7 +11,13 @@ public class petlaFor {
         for (int i = 5; i <= liczba; i=i+2) {
             System.out.println(i);
         }*/
-
+/*
+        for ( int i = 0; i<20; i++) {
+            if (i%5==0) {
+                System.out.println(i);
+            }
+        }
+        */
         for ( int i = 0; i<20; i++) {
             if (i%5==0) {
                 System.out.println(i);
