@@ -24,7 +24,7 @@ public class Tablice {
         // przypisuje je do tablicy
         // wypisuje je wszystkie
 
-       /* Scanner scanner = new Scanner(System.in);
+        Scanner scanner = new Scanner(System.in);
         System.out.println("Podaj ile liczb ");
         int ileLiczb = scanner.nextInt();
 
@@ -35,8 +35,8 @@ public class Tablice {
 
 
         }
-*/
 
+/*
         Scanner scanner = new Scanner(System.in);
         System.out.println("Podaj liczbę 1 ");
         int liczba = scanner.nextInt();
@@ -48,6 +48,6 @@ public class Tablice {
 
         for (int i=0 ;i<liczbaTablica.length; i++ ){
             System.out.println(liczbaTablica[i]);
-        }
+        }*/
     }
 }
