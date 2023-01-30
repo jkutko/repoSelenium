@@ -28,11 +28,12 @@ public class Tablice {
         System.out.println("Podaj ile liczb ");
         int ileLiczb = scanner.nextInt();
 
-        System.out.println(ileLiczb);
+       // System.out.println(ileLiczb);
 
         for (int i = 0; i<ileLiczb; i++) {
-
-
+            System.out.println("Podaj liczbę " +i);
+            int liczba = scanner.nextInt();
+            System.out.println("Moja wpisana liczba " +liczba);
 
         }
 
