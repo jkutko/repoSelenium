@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb77c01d-e0d2-44bd-b21a-3ccbd7442cef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Tablice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tablice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tablice.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -177,7 +177,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674228387187</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Tablice">
+      <created>1675089452450</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1675089452450</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -206,6 +213,7 @@
     <MESSAGE value="praca domowa 2 sklep z alko" />
     <MESSAGE value="swith" />
     <MESSAGE value="do while" />
-    <option name="LAST_COMMIT_MESSAGE" value="do while" />
+    <MESSAGE value="Tablice" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tablice" />
   </component>
 </project>

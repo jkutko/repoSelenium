@@ -19,13 +19,35 @@ public class Tablice {
             System.out.println(tablica[g]);
         }*/
 
-        Scanner scanner = new Scanner(System.in);
-        System.out.println("Podaj liczbę ");
-        int liczba = scanner.nextInt();
-        int[] liczba1 = new int[] {liczba};
+       // podaje ilość liczb
+        // podaje liczby
+        // przypisuje je do tablicy
+        // wypisuje je wszystkie
 
-        for (int i=0 ;i<liczba1.length; i++ ){
-            System.out.println(liczba1[i]);
+       /* Scanner scanner = new Scanner(System.in);
+        System.out.println("Podaj ile liczb ");
+        int ileLiczb = scanner.nextInt();
+
+        System.out.println(ileLiczb);
+
+        for (int i = 0; i<ileLiczb; i++) {
+
+
+
+        }
+*/
+
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("Podaj liczbę 1 ");
+        int liczba = scanner.nextInt();
+
+        System.out.println("Podaj liczbę 2 ");
+        int liczba1 = scanner.nextInt();
+
+        int[] liczbaTablica = new int[] {liczba,liczba1};
+
+        for (int i=0 ;i<liczbaTablica.length; i++ ){
+            System.out.println(liczbaTablica[i]);
         }
     }
 }
