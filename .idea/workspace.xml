@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb77c01d-e0d2-44bd-b21a-3ccbd7442cef" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/whileLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/whileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tablice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,14 +38,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.whileLoop">
-    <configuration name="CustomScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CustomScanner" />
-      <module name="repo" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Tablice">
     <configuration name="PracaDomowa1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PracaDomowa1" />
       <module name="repo" />
@@ -54,6 +48,13 @@
     </configuration>
     <configuration name="Switch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Switch" />
+      <module name="repo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tablice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tablice" />
       <module name="repo" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -75,11 +76,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Tablice" />
         <item itemvalue="Application.whileLoop" />
         <item itemvalue="Application.petlaFor" />
         <item itemvalue="Application.PracaDomowa1" />
         <item itemvalue="Application.Switch" />
-        <item itemvalue="Application.CustomScanner" />
       </list>
     </recent_temporary>
   </component>
@@ -169,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674227731532</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="do while">
+      <created>1674228387187</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1674228387187</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -197,6 +205,7 @@
     <MESSAGE value="praca domowa 1" />
     <MESSAGE value="praca domowa 2 sklep z alko" />
     <MESSAGE value="swith" />
-    <option name="LAST_COMMIT_MESSAGE" value="swith" />
+    <MESSAGE value="do while" />
+    <option name="LAST_COMMIT_MESSAGE" value="do while" />
   </component>
 </project>
