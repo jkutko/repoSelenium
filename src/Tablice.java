@@ -75,7 +75,7 @@ public class Tablice {
         // zastosowanie pętli for each - lepsze do wypisywania wartości
 
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Podaj ile na być liczb ");
+        System.out.println("Podaj ile ma być liczb ");
         int ileLiczb = scanner.nextInt();
 
         int[] mojaTablicaLiczb = new int[ileLiczb];
@@ -91,7 +91,7 @@ public class Tablice {
             mojaTablicaLiczb[i] = liczba;
         }
         for (int pokazLiczby : mojaTablicaLiczb) {
-            System.out.println(pokazLiczby);
+            System.out.println("Wprowadzone liczby to " +pokazLiczby);
         }
 
 
