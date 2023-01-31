@@ -41,16 +41,16 @@ public class Tablice {
         // przypisuje je do tablicy
         // wypisuje je wszystkie
 
-        Scanner scanner = new Scanner(System.in);
+      /*  Scanner scanner = new Scanner(System.in);
         System.out.println("Podaj ile liczb ");
-        int ileLiczb = scanner.nextInt();
+        int ileLiczb = scanner.nextInt();*/
 
         // System.out.println(ileLiczb);
 
         // zainicjować tablicę na ilość wprowadzanych liczb
         // w pętli przypisać liczby do niej
 
-        int[] tablicaLiczb = new int[ileLiczb];
+        /*int[] tablicaLiczb = new int[ileLiczb];
 
 
         for (int i = 0; i < ileLiczb; i++) {
@@ -64,7 +64,7 @@ public class Tablice {
 
         for (int i = 0; i < tablicaLiczb.length; i++) {
             System.out.println(tablicaLiczb[i]);
-        }
+        }*/
 
         // drugi sposób
 
@@ -72,7 +72,30 @@ public class Tablice {
         // podaje liczby
         // przypisuje je do tablicy
         // wypisuje je wszystkie
-        // zastosowanie pętli for each
+        // zastosowanie pętli for each - lepsze do wypisywania wartości
+
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("Podaj ile na być liczb ");
+        int ileLiczb = scanner.nextInt();
+
+        int[] mojaTablicaLiczb = new int[ileLiczb];
+
+        //wypełnienie tablicy
+        for (int i= 0; i< ileLiczb; i++) {
+            int j = i + 1;
+            System.out.println("Podaj liczbę " + j);
+            int liczba = scanner.nextInt();
+
+            //System.out.println("Moja wpisana liczba " + liczba);
+
+            mojaTablicaLiczb[i] = liczba;
+        }
+        for (int pokazLiczby : mojaTablicaLiczb) {
+            System.out.println(pokazLiczby);
+        }
+
+
+
 
     }
 }
