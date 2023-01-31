@@ -30,7 +30,11 @@ public class Tablice {
 
        // System.out.println(ileLiczb);
 
-        for (int i = 0; i<ileLiczb; i++) {
+        // zainicjować tablicę na ilość wprowadzanych liczb
+        // w pętli przypisać liczby do niej
+
+
+        for (int i = 1; i<= ileLiczb; i++) {
             System.out.println("Podaj liczbę " +i);
             int liczba = scanner.nextInt();
             System.out.println("Moja wpisana liczba " +liczba);
