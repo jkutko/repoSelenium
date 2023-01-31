@@ -19,29 +19,7 @@ public class Tablice {
             System.out.println(tablica[g]);
         }*/
 
-       // podaje ilość liczb
-        // podaje liczby
-        // przypisuje je do tablicy
-        // wypisuje je wszystkie
-
-        Scanner scanner = new Scanner(System.in);
-        System.out.println("Podaj ile liczb ");
-        int ileLiczb = scanner.nextInt();
-
-       // System.out.println(ileLiczb);
-
-        // zainicjować tablicę na ilość wprowadzanych liczb
-        // w pętli przypisać liczby do niej
-
-
-        for (int i = 1; i<= ileLiczb; i++) {
-            System.out.println("Podaj liczbę " +i);
-            int liczba = scanner.nextInt();
-            System.out.println("Moja wpisana liczba " +liczba);
-
-        }
-
-/*
+        /*
         Scanner scanner = new Scanner(System.in);
         System.out.println("Podaj liczbę 1 ");
         int liczba = scanner.nextInt();
@@ -54,5 +32,47 @@ public class Tablice {
         for (int i=0 ;i<liczbaTablica.length; i++ ){
             System.out.println(liczbaTablica[i]);
         }*/
+
+
+        // pierwszy sposób
+
+        // podaje ilość liczb
+        // podaje liczby
+        // przypisuje je do tablicy
+        // wypisuje je wszystkie
+
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("Podaj ile liczb ");
+        int ileLiczb = scanner.nextInt();
+
+        // System.out.println(ileLiczb);
+
+        // zainicjować tablicę na ilość wprowadzanych liczb
+        // w pętli przypisać liczby do niej
+
+        int[] tablicaLiczb = new int[ileLiczb];
+
+
+        for (int i = 0; i < ileLiczb; i++) {
+            int j = i + 1;
+            System.out.println("Podaj liczbę " + j);
+            int liczba = scanner.nextInt();
+            System.out.println("Moja wpisana liczba " + liczba);
+            tablicaLiczb[i] = liczba;
+
+        }
+
+        for (int i = 0; i < tablicaLiczb.length; i++) {
+            System.out.println(tablicaLiczb[i]);
+        }
+
+        // drugi sposób
+
+        // podaje ilość liczb
+        // podaje liczby
+        // przypisuje je do tablicy
+        // wypisuje je wszystkie
+        // zastosowanie pętli for each
+
     }
 }
