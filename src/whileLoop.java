@@ -12,7 +12,7 @@ public class whileLoop {
         */
 // petla do while wykona się zawsze chociaż raz
     int number;
-        number = 21;
+        number = 5;
 
         do {
             System.out.println("Liczba " + number + " mniejsza od 20");
