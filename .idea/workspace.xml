@@ -1,13 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="eb77c01d-e0d2-44bd-b21a-3ccbd7442cef" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/repo/CustomScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/repo/CustomScanner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/repo/InkrementacjaDekrementacja.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/repo/InkrementacjaDekrementacja.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/repo/OperatoryMatematyczne.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/repo/OperatoryMatematyczne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/repo/TypyObiektowe.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/repo/TypyObiektowe.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/repo/Zmienne.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/repo/Zmienne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CustomScanner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InkrementacjaDekrementacja.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InstrukcjeWarunkowe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OperatoryMatematyczne.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PracaDomowa1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Switch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tablice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TypyObiektowe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Zmienne.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/production/repo/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/production/repo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/production/repo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/production/repo/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/production/repo/CustomScanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/production/repo/InkrementacjaDekrementacja.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/production/repo/OperatoryMatematyczne.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/production/repo/PracaDomowa1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/production/repo/Switch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/production/repo/Tablice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/production/repo/TypyObiektowe.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/production/repo/Zmienne.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/production/repo/petlaFor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/production/repo/pracaDomowaPetle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/production/repo/repo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/production/repo/testElka.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/production/repo/whileLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/petlaFor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pracaDomowaPetle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/repo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/testElka.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/whileLoop.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -37,56 +84,109 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_MARK_IGNORED_FILES_AS_EXCLUDED" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/P1/stare p1/repo/p1-testy-systemowe-source" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/P1/stare p1/repo/p1-aua-kso-source" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="Application.pracaDomowaPetle">
-    <configuration name="PracaDomowa1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracaDomowa1" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\utkoj\selenium\repo\.idea" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.AutoTest">
+    <configuration name="AutoTest" type="Application" factoryName="Application" singleton="false" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="corretto-11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="AutoTest" />
       <module name="repo" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tablice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tablice" />
+    <configuration name="OperatoryMatematyczne" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OperatoryMatematyczne" />
       <module name="repo" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="petlaFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="petlaFor" />
-      <module name="repo" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="pracaDomowaPetle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="pracaDomowaPetle" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="corretto-11" />
       <option name="MAIN_CLASS_NAME" value="pracaDomowaPetle" />
       <module name="repo" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="whileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="whileLoop" />
+    <configuration name="forEach" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
       <module name="repo" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="forEach" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="forEach" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="repo" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="forEach" />
+      <option name="METHOD_NAME" value="petla" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="forEach.petla" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="repo" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="forEach" />
+      <option name="METHOD_NAME" value="petla" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testElka.exampleMetody" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="repo" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="testElka" />
+      <option name="METHOD_NAME" value="exampleMetody" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testElka.petla" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="repo" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="testElka" />
+      <option name="METHOD_NAME" value="petla" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.OperatoryMatematyczne" />
+      <item itemvalue="Application.pracaDomowaPetle" />
+      <item itemvalue="Application.AutoTest" />
+      <item itemvalue="JUnit.forEach" />
+      <item itemvalue="JUnit.forEach.petla" />
+      <item itemvalue="JUnit.testElka.exampleMetody" />
+      <item itemvalue="JUnit.testElka.petla" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.pracaDomowaPetle" />
-        <item itemvalue="Application.PracaDomowa1" />
-        <item itemvalue="Application.Tablice" />
-        <item itemvalue="Application.whileLoop" />
-        <item itemvalue="Application.petlaFor" />
+        <item itemvalue="JUnit.forEach" />
       </list>
     </recent_temporary>
   </component>
@@ -278,5 +378,12 @@
     <MESSAGE value="Tablice" />
     <MESSAGE value="praca domowa petle" />
     <option name="LAST_COMMIT_MESSAGE" value="praca domowa petle" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/repo$AutoTest.ic" NAME="AutoTest Coverage Results" MODIFIED="1705923887797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
